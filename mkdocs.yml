@@ -1,0 +1,9 @@
+site_name: Pokélab Documentation
+site_description: Pokélab Starter Pack - PSP v1.0
+theme: readthedocs
+pages:
+- ['index.md', 'Accueil']
+- ['manuel.md', 'Manuel']
+- ['docs.md', 'Documentation', 'Avant-propos']
+- ['docs/conventions.md', 'Documentation', 'Conventions']
+- ['docs/console.md', 'Documentation', 'Console']
